@@ -4,7 +4,6 @@ I’m Christian. Mechanical engineer & currently working at [OSE Engineering](ht
 
 You are most likely to find personnal projects here, some engineering/science related code, bash scripts or dotfiles for my linux system, raspberry pi stuff etc... Feel free to take a look.
 
-[Stack Overflow](https://stackoverflow.com/users/12273727/foussy) - 
 [LinkedIn](https://www.linkedin.com/in/christianhiricoiu27/)
 
 
