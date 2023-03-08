@@ -2,7 +2,7 @@
 
 I’m Christian. Mechanical engineer & currently working at [OSE Engineering](http://ose-engineering.fr/) as a developer.  
 
-You won´t find much here since I mainly use Gitlab to host my repos.I'm not using github to keep track of my repos anymore. switched to Gitlab
+You won´t find much here since I mainly use Gitlab to host my repos. I'm not using github to keep track of my repos anymore.
 
 [Gitlab](https://gitlab.com/christianhiricoiu) | 
 [LinkedIn](https://www.linkedin.com/in/christianhiricoiu27/)
