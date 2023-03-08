@@ -2,8 +2,9 @@
 
 I’m Christian. Mechanical engineer & currently working at [OSE Engineering](http://ose-engineering.fr/) as a developer.  
 
-You are most likely to find personnal projects here, some engineering/science related code, bash scripts or dotfiles for my linux system, raspberry pi stuff etc... Feel free to take a look.
+You won´t find much here since I mainly use Gitlab to host my repos.I'm not using github to keep track of my repos anymore. switched to Gitlab
 
+[Gitlab](https://gitlab.com/christianhiricoiu)
 [LinkedIn](https://www.linkedin.com/in/christianhiricoiu27/)
 
 
